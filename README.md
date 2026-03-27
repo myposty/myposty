@@ -1,4 +1,6 @@
 <div align="center">
+  <img height="150" src="https://github.com/myposty.png" style="border-radius:50%;" />
+  <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there+%F0%9F%91%8B+I'm+Brahian;Enterprise+Software+Developer+%F0%9F%87%B5%F0%9F%87%BE" alt="Typing SVG" />
 </div>
 
